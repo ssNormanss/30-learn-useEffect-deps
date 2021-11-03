@@ -1,2 +1,2 @@
-# 30-learn-useEffect-deps
+# 30-learn-useEffect-1
 Created with CodeSandbox
